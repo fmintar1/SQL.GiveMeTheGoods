@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE City RLIKE '^[a-f]';
